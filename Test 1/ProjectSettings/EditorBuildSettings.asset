@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Virtual book!/v\xE6lgscene.unity"
+    guid: 4a06a0933614bc942b858edad4262b1b
+  - enabled: 1
+    path: Assets/Virtual book!/Bog1.unity
+    guid: 95a2aaec42e06654f8f7201c6d3c6390
+  - enabled: 1
+    path: Assets/Virtual book!/Bog2.unity
+    guid: 24f5c7dbf0e80d54b8dcf87f4a274372
+  m_configObjects: {}
